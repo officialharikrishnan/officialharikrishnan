@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 Myself Harikrishnan, I made my coding skill through self learning...
-I switch my career from computer hardware to coding.
+I switched my career from computer hardware to coding.
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/harikrishnan-p-74523a1a9/">
