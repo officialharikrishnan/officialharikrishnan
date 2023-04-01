@@ -1,18 +1,16 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-### Hi there 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harikrishnan-p-74523a1a9) 
 
-Myself Harikrishnan, I made my coding skill through self learning...
-I switched my career from computer hardware to coding.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=officialharikrishnan&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=officialharikrishnan&theme=shades-of-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=officialharikrishnan&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/harikrishnan-p-74523a1a9/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=officialharikrishnan&style=flat-square&color=blue" alt=""/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=officialharikrishnan&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
